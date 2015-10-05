@@ -26,7 +26,7 @@ Devise::Application.configure do
     :address => 'smtp.gmail.com',
     :port => 587,
     # smtpサーバアクセスユーザー
-    :user_name => 'hoge',
+    :user_name => 'hoge@gmail.com',
     :password => '****',
     :authentication => :plain,
     :enable_starttls_auto => true

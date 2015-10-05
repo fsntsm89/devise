@@ -45,4 +45,3 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
-gem 'devise-i18n'
